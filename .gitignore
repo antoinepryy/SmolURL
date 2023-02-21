@@ -1,0 +1,11 @@
+# IDE files
+.idea/
+
+# Compiled files
+frontend/build/
+frontend/node_modules/
+backend/venv/
+*.pyc
+
+# Python cache
+**/__pycache__/
